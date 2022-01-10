@@ -7,3 +7,4 @@ edition = "2021"
 
 [dependencies]
 dioxus = { version = "0.1.7", features = ["desktop"] }
+irc = "0.13"
