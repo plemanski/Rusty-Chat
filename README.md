@@ -1,6 +1,6 @@
-<p align="center">
-# Rusty-Chat
-</p>
+<H1 align="center">
+Rusty-Chat
+</H1>
 
 Performant minimalistic IRC Client. I am building this as a way to learn Rust.
 
