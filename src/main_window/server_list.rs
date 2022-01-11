@@ -1,7 +1,6 @@
 use dioxus::prelude::*;
 
 #[derive(Props, PartialEq)]
-
 pub struct ServerListProps {
     server_name: String
 }
